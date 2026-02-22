@@ -31,4 +31,6 @@ First thought, redundant "router" with a dedicated edge mediums (LTE, satellite,
 ![First diagram](HA-Mesh-Edge.drawio.png)
 
 Second thought, If space and weight are a concern, some redundancy could be traded off for a single "router", with multiple edge mediums types
+![Second diagram](HA-Mesh-Single-Router.drawio.svg)
 
+What are we meshing with? additional mobile nodes? multiple stationary edge points?
