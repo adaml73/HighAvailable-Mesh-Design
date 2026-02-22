@@ -25,5 +25,10 @@ https://www.paloaltonetworks.com/cyberpedia/types-of-vpn-protocols#wireguard
 Babel? is this a true mesh?
 
 
+
 ## Mobile Edge:
+First thought, redundant "router" with a dedicated edge mediums (LTE, satellite, whatever)
 ![First diagram](HA-Mesh-Edge.drawio.png)
+
+Second thought, If space and weight are a concern, some redundancy could be traded off for a single "router", with multiple edge mediums types
+
